@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: lab-app
-        image: DOCKERHUB_USERNAME/devops-lab-app:latest
+        image: levanietuna5/devops-lab-app:latest
         ports:
         - containerPort: 80
 ---
